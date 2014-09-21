@@ -1,0 +1,16 @@
+---
+Brutal squirrel v0.4
+---
+This is converter to hex digits (plain text) and back.
+Using it you can use your favourite text editor (such as vi or emacs)
+as hex editor. Also you can compose any binary file or text file with
+non-keyboard symbols directly at hex digits.
+
+Reads from standart input and puts to standart output.
+
+Options:
+-c - compile binary file
+-d - decompile to hex digits
+-t - text (void newline symbol before EOF)
+-b - binary (default)
+-h/--help - help
